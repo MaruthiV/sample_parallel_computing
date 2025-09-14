@@ -211,20 +211,3 @@ Portfolio Size    Serial    Multiprocessing-4    GPU
 ## 📝 License
 
 This project is for educational and research purposes. Please ensure compliance with relevant financial regulations when using in production environments.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please focus on:
-- Performance optimizations
-- Additional parallelization strategies
-- Enhanced visualization features
-- Real market data integration
-
-## 📞 Contact
-
-For questions about this implementation or parallel computing in quantitative finance, please open an issue or start a discussion.
-
----
-
-**Note**: This system is designed for educational purposes and demonstrates parallel computing concepts in quantitative finance. For production use, additional validation, error handling, and compliance considerations would be required.
-# sample_parallel_computing
